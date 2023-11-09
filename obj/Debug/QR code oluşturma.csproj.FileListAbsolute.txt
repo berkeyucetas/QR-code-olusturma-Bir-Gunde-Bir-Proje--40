@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\bin\Debug\QR code oluşturma.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\bin\Debug\QR code oluşturma.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\bin\Debug\QR code oluşturma.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\bin\Debug\QRCoder.dll
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR_code_oluşturma.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR_code_oluşturma.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.csproj.CopyComplete
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\QR code oluşturma\QR code oluşturma\obj\Debug\QR code oluşturma.pdb
